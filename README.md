@@ -4,7 +4,7 @@
 
 ### titre niveau 3
 
-#### titre nivezu 4
+#### titre niveau 4
 
 - puce 1
 - puce 2
